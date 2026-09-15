@@ -31,9 +31,9 @@ Rethymnon, Crete.
 
 ## Training and consulting
 
-- [navarre.training](https://navarre.training): free and paid FileMaker classes, including the 10-week Champions course.
-- [navarre.ai](https://navarre.ai): one-to-one AI-for-FileMaker consulting.
-- [YouTube](https://www.youtube.com/@navarre): 400+ FileMaker videos.
-- [ClarisTalk AI](https://claristalk.ai): the podcast, with Cris Ippolite.
+- [navarre.ai](https://navarre.ai): AI-for-FileMaker consulting and FileMaker classes, including the 10-week Champions course.
+- [YouTube](http://www.youtube.com/@navarre.training): 400+ FileMaker videos.
+- [ClarisTalk AI](https://podcasts.apple.com/us/podcast/claristalk-ai/id1732288474): the podcast, with Cris Ippolite.
+- [LinkedIn](https://www.linkedin.com/in/navarre/)
 
 Questions: matt@navarre.ai
