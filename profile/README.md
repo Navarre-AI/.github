@@ -1,10 +1,9 @@
 # Navarre AI
 
-Tools for FileMaker, built by Matt Navarre. Open source, self-hosted, and
-small enough to read. Some use AI. Some are pure FileMaker.
-
-Where AI is involved, FileMaker stays the source of truth. The AI writes the
-code, the code runs, and the numbers come from a deterministic engine.
+AI tools for FileMaker, built by Matt Navarre. Each runs on a cloud
+container that you control, linked to your databases and always using
+FileMaker as the system of record. Other tools for language research and side
+projects. All are open source.
 
 ## AI tools
 
